@@ -1,11 +1,11 @@
 {
   "domain": "goodwe_tibber_smartcharge",
   "name": "GoodWe Tibber Smart Charge",
-  "codeowners": ["@DeinGitHubName"],
+  "codeowners": ["Fruitsmart"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/DeinGitHubName/goodwe_tibber_smartcharge",
-  "issue_tracker": "https://github.com/DeinGitHubName/goodwe_tibber_smartcharge/issues",
+  "documentation": "https://github.com/Fruitsmart/goodwe_tibber_smartcharge",
+  "issue_tracker": "https://github.com/Fruitsmart/goodwe_tibber_smartcharge/issues",
   "requirements": [],
   "version": "1.0.0"
 }
